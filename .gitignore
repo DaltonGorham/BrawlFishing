@@ -14,9 +14,12 @@ Build/
 
 # Visual Studio
 *.sln
+*.slnx
 *.suo
 *.user
 *.userprefs
+*.VC.db
+*.VC.VC.opendb
 
 # OS
 .DS_Store
